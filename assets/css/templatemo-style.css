@@ -494,6 +494,7 @@ button:hover {
 }
 
 .service-item .eighth-service-icon {
+    width: 90px;
     background-image: url(../images/aws.svg);
 }
 
